@@ -1,0 +1,10 @@
+1;Amanda;(71) 00000-0000;amanda@email.com;2
+2;Beatriz;(71) 11111-1111;beatriz@email.com;3
+3;Carlos;(71) 22222-2222;carlos@email.com;101
+4;Daniel;(71) 33333-3333;daniel@email.com;102
+5;Ester;(71) 44444-4444;ester@email.com;103
+6;Fernando;(71) 55555-5555;fernando@email.com;104
+7;Graça;(71) 66666-6666;graca@email.com;201
+8;Hugo;(71) 77777-7777;hugo@email.com;202
+9;Igor;(71) 88888-8888;igor@email.com;203
+10;Júlia;(71) 99999-9999;julia@email.com;204
